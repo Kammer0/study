@@ -1,0 +1,3 @@
+# study
+
+saludo = "Hola mundo!"
