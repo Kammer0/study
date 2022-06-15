@@ -1,10 +1,5 @@
 # study
 
-
-Enunciado del ejercicio:
-
-Para este ejercicio tenéis que crear en la consola de python variables que representen los siguientes datos de un contacto:
-
 nombre = "Santiago"
 
 apellido = "Kemerer"
