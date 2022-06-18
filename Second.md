@@ -1,3 +1,0 @@
-# study
-
-saludo = "Hola mundo!"
